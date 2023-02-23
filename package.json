@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1",
     "react-highlight-words": "^0.16.0",
     "react-scripts": "3.4.1",
-    "sequelize": "^5.21.10",
+    "sequelize": "^6.28.2",
     "typescript": "^3.9.3"
   },
   "scripts": {
